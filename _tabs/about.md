@@ -4,5 +4,5 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Blake is a recent UC Berkeley graduate with degrees in Data Science and Sustainable Design.  
+He is passionate about designing urban environments to be more equitable, sustainable, and livable for all. He is pursuing a career at the intersection of transportation and data science.
