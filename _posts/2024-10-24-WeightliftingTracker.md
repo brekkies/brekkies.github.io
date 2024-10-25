@@ -1,6 +1,6 @@
 ---
 title: Weightlifting Progress Tracker
-date: 2024-10-24 18:00:00 -0800
+date: 2024-10-23 18:00:00 -0800
 categories: [Data Analysis, Data Visualization]
 tags: [regex, matplotlib]     # TAG names should always be lowercase
 ---
