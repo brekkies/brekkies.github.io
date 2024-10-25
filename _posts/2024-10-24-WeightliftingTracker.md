@@ -8,3 +8,5 @@ tags: [regex, matplotlib]     # TAG names should always be lowercase
 ## Hello and welcome to my post
 
 Find my Jupyter Notebook containing all my code [here](https://nbviewer.org/github/brekkies/Weightlifting-Progress-Tracker/blob/main/WorkoutData2024.ipynb)
+
+Why isn't this showing up???
