@@ -1,6 +1,6 @@
 ---
 title: Bay Area Suburban Downtowns
-date: 2024-11-18 18:00:00 -0800
+date: 2024-11-16 18:00:00 -0800
 categories: [Data Visualization, Urbanism]
 tags: [qgis,postgis,sql,gis]     # TAG names should always be lowercase
 ---
