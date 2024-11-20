@@ -5,7 +5,7 @@ categories: [Data Analysis, Data Visualization]
 tags: [regex, matplotlib]     # TAG names should always be lowercase
 ---
 
-## Hello and welcome to my post
+## Data Analysis for Meatheads
 
 Find my Jupyter Notebook containing the code for
 [extracting](https://nbviewer.org/github/brekkies/Weightlifting-Progress-Tracker/blob/main/Workout%20Data%20Extractor%20(1).ipynb) and [visualizing](https://nbviewer.org/github/brekkies/Weightlifting-Progress-Tracker/blob/main/Workout%20Data%20Visuals%20(2).ipynb) my workout data
