@@ -9,7 +9,8 @@ tags: [qgis,postgis,sql,gis]     # TAG names should always be lowercase
 
 In Summer 2023, a friend and I went on a quest to rank all of the downtowns in the Bay Area. We visited all the downtowns and created a tier list ranking them from S-tier to F-tier. However, we caught a lot of flak as we showed off our tier list. We faced accusations of bias (I plead not guilty) and others pointed out several missing downtowns (sorry Sunnyvale). 
 
-![Tierlist v1.0](/assets/OriginalTierlist.png)
+![Tierlist v1.0](/assets/OriginalTierlist.png){: width="100" }
+
 
 **To add more weight to my rankings, I am embarking on a journey to make a data-driven ranking of downtowns in my region.** 
 
