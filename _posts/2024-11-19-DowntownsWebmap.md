@@ -18,7 +18,12 @@ To kick things off, I tried to find official data that demarcated the boundaries
 
 ### [Check out the map here!](https://brekkies.github.io/Bay-Area-Downtowns-Webmap/)
 
-## Criteria for inclusion
-What counts as a downtown? I have yet to find a compelling definition. My working definition of a downtown is an outdoor, retail-oritented space designed to encourage pedestrian activity.
-This means a few things. Indoor malls and strip malls are excluded from consideration. If the facade of most shops faces a parking lot, I won't consider it. Additionally, I am choosing to focus on suburban downtowns. 
-Thus, I won't rank downtown San Jose, Oakland, or Berkeley. Furthermore, I am excluding all of San Francsico from the rankings on the grounds of fairness. Sorry, they are just too good.
+### What counts as a downtown?
+A precise definition seems difficult to come by. 
+**For the purposes of this project, I define a downtown as an outdoor retail and restaurant-oriented space designed to cater to people on foot.**
+
+
+Thus, both indoor and strip malls are excluded from consideration. If the facades of most shops face a parking lot or a high-speed road, the space is not a downtown. 
+Additionally, to ensure I am comparing apples to apples, I will only rank **suburban** downtowns. 
+That means downtown San Jose, downtown Oakland, and downtown Berkeley are out of the running, as they are clearly in a league of their own. 
+I am excluding all of San Francisco from the rankings for the same reason. 
