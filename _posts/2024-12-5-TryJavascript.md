@@ -9,6 +9,7 @@ include_scripts: [
   "/assets/js/sampleScript.js"
 ]
 ---
+updated 
 
 <button onclick="clickFunction()">Click Me</button>
 <div id="hiddenMessage" style="display:none">
